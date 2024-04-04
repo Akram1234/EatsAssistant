@@ -41,8 +41,8 @@ The project is divided into two main components:
 (Assuming a Node.js setup; adjust accordingly for Python/Flask)
 
 1. Navigate to the backend directory:
-2. Install dependencies: pip install -r requirements.txt
-3. Start the server: python server.py
+2. Install dependencies: `pip install -r requirements.txt`
+3. Start the server: `python server.py`
 4. The backend API will be available at `http://localhost:8000`.
 
 ## Usage
