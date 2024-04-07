@@ -112,9 +112,9 @@
         "Do you offer delivery for catering orders?"
       ],
       "responses": [
-        "We will be more than happy to serve fresh food to make your event more memorable. Feel free to call us at (669)-224-0833",
-        "At Suggi OOta, we offer top-notch catering services to help make your event a success. Give us a call at (669)-224-0833 to learn more and to place your order.",
-        "We'd love to help make your event unforgettable with our fresh and delicious food. Feel free to give us a call at (669)-224-0833 to discuss your catering needs."
+        "We will be more than happy to serve fresh food to make your event more memorable. Feel free to call us at (123)-456-7890",
+        "At Suggi OOta, we offer top-notch catering services to help make your event a success. Give us a call at (123)-456-7890 to learn more and to place your order.",
+        "We'd love to help make your event unforgettable with our fresh and delicious food. Feel free to give us a call at (123)-456-7890 to discuss your catering needs."
       ],
       "context_set": ""
     },
@@ -194,7 +194,7 @@
         "Where do I find you"
       ],
       "responses": [
-        "We are one of the Cloud Kitchens (K-31) located at 949 Ruff Dr, San Jose, CA 95110. Please follow the link to visit us: https://www.google.com/maps?q=949+Ruff+Dr,+San+Jose,+CA+95110"
+        "We are one of the Cloud Kitchens located at 1000 Hilltop Cir, Baltimore, MD 21250. Please follow the link to visit us: https://maps.app.goo.gl/fQZLGqEbTsAgHTQB9"
       ],
       "context_set": ""
     },
@@ -253,9 +253,9 @@
         "What is the best way to make a reservation"
       ],
       "responses": [
-        "Feel free to call us at (669)-224-0833 from 11 am-9pm on everyday except Mondays",
-        "Please give us a call at (669)-224-0833 from 11 am-9pm on everyday except Mondays",
-        "We would love to hear from you! You can contact us at (669)-224-0833 from 11 am-9pm on everyday except Mondays"
+        "Feel free to call us at (123)-456-7890 from 11 am-9pm on everyday except Mondays",
+        "Please give us a call at (123)-456-7890 from 11 am-9pm on everyday except Mondays",
+        "We would love to hear from you! You can contact us at (123)-456-7890 from 11 am-9pm on everyday except Mondays"
       ],
       "context_set": ""
     },
@@ -314,8 +314,8 @@
         "What are the featured items?"
       ],
       "responses": [
-        "Our menu is a daily changing menu as we prepare everything from scratch on the same day, Please visit https://www.suggioota.com/order-online for more information.",
-        "Our daily changing menu features only fresh, made-from-scratch meals, using the best seasonal ingredients. Please visit https://www.suggioota.com/order-online to explore our menu."
+        "Our menu is a daily changing menu as we prepare everything from scratch on the same day, Please visit https://www.thehalalshack.com/ for more information.",
+        "Our daily changing menu features only fresh, made-from-scratch meals, using the best seasonal ingredients. Please visit https://www.thehalalshack.com/ to explore our menu."
       ],
       "context_set": ""
     },
@@ -373,8 +373,8 @@
         "Do you have gluten-free options?"
       ],
       "responses": [
-        "You can visit https://www.suggioota.com/order-online for menu options",
-        "You can check out the food menu at https://www.suggioota.com/order-online"
+        "You can visit https://www.thehalalshack.com/ for menu options",
+        "You can check out the food menu at https://www.thehalalshack.com/"
       ],
       "context_filter": "food"
     },
@@ -405,9 +405,9 @@
         "What's a good option for lunch?"
       ],
       "responses": [
-        "Sure, You can place your order online at https://www.suggioota.com/order-online",
-        "Of course, You can place your order online at https://www.suggioota.com/order-online",
-        "We have many great options to choose from, You can place your order online at https://www.suggioota.com/order-online"
+        "Sure, You can place your order online at https://www.thehalalshack.com/",
+        "Of course, You can place your order online at https://www.thehalalshack.com/",
+        "We have many great options to choose from, You can place your order online at https://www.thehalalshack.com/"
       ],
       "context_set": ""
     }

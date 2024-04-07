@@ -1,2 +1,5 @@
 myenv/
 node_modules/
+backend/__pycache__/
+Model_script.ipynb
+.DS_Store

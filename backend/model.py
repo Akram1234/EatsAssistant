@@ -2,16 +2,21 @@ import json
 import numpy as np
 import nltk
 import gensim.downloader as api
+import ssl
 from tensorflow.keras.models import load_model
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from nltk.tokenize import word_tokenize
 
+if hasattr(ssl, '_create_unverified_context'):
+    ssl._create_default_https_context = ssl._create_unverified_context
+
 nltk.download('punkt')
 nltk.download('wordnet')
 nltk.download('stopwords')
 
-model = api.load("word2vec-google-news-300")
+model = api.load("word2vec-google-news-300") 
+# model = load_model('../Data/word2vec-google-news-300.model')
 chatbot_model = load_model('../Data/EatsAdvisor_word2vec.h5')
 lemmatizer = WordNetLemmatizer()
 
