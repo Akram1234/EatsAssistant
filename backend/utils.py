@@ -12,6 +12,7 @@ def generate_response(sentence):
     if results[0][results_index] > 0.5:
         for intent in data["intents"]:
             if intent["tag"] == tag:
+                # write code to trigger appropriate action
                 return random.choice(intent["responses"])
     else:
         return "I am evolving constantly. I apologize that I could not help you with your query. Please give us a call at and our team will be happy to assist"
